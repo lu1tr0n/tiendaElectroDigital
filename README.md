@@ -5,10 +5,10 @@ Código fuente de una tienda programada en php
 La tienda tiene de venta a componentes electronicos mas utilizados en el mercado
 
 ### Materia
-Web y Comercion Electronico II
+* Web y Comercion Electronico II
 
 ### Docente
-Ing. Edwin Portillo
+* Ing. Edwin Portillo
 
 ### Programador
-Luis Navarro
+* Luis Navarro
