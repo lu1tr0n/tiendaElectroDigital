@@ -1,3 +1,7 @@
+/*
+* 	Script de la tienda ElectroDigital
+*/
+
 $(document).ready(inicio);
 function inicio(){
 	$(".botoncompra").click(agregar);
