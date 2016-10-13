@@ -1,4 +1,10 @@
 <?php
+	
+	/*
+	*	Descripcion: Este es un sitio para Web y Comercio II
+	*
+	*/
+
 	// Conexion a la base de datos
 	//$conexion = new mysqli("localhost", "root", "Ghostmanzana$+$", "tiendaonline");
 	//$conexion->character_set_name("utf-8");
