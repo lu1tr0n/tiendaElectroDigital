@@ -1,3 +1,7 @@
+<?php /*
+*	Script PHP para la tienda ElectroDigital
+*
+*/ ?>
 <?php include_once('php/conexion.php'); ?>
 <?php include_once('php/header.php'); ?>
 
