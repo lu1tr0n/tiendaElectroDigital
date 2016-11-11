@@ -1,4 +1,8 @@
 <?php 
+	/*
+		Tienda Electronica ElectroDigital 
+		Materia Web y Comercio Electronico II 2016
+	*/
 
 	include_once('php/conexion.php');
 	session_start();
