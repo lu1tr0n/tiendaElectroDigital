@@ -1,3 +1,8 @@
+<?php /*
+		Tienda Electronica ElectroDigital 
+		Materia Web y Comercio Electronico II 2016
+	*/
+?>
 <?php include_once('php/conexion.php'); ?>
 <?php include_once('php/header.php'); ?>
 
