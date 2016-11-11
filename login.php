@@ -1,4 +1,9 @@
 <?php
+	/*
+		Tienda Electronica ElectroDigital 
+		Materia Web y Comercio Electronico II 2016
+	*/
+
 	include("php/header.php");
 	include("php/conexion.php");
 	$contador = 0;
