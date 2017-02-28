@@ -12,3 +12,6 @@ La tienda tiene de venta a componentes electronicos mas utilizados en el mercado
 
 ### Programador
 * Luis Navarro
+
+### Fecha de finalización
+* 10/12/2016
