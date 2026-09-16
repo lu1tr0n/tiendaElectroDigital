@@ -20,9 +20,11 @@
 
 		$peticion1 = "SELECT * FROM pedidos WHERE idcliente = '".$_SESSION['usuario']."' ORDER BY fecha DESC LIMIT 1";
 		$resultado1 = mysqli_query($conexion, $peticion1);
-		while($fila1 = mysqli_fetch_array($resultado1)){
-			$_SESSION['idpedido'] = $fila1['idcliente'];
-		}
+                while($fila1 = mysqli_fetch_array($resultado1)){
+                        // Almacenar en la sesi\u00f3n el identificador del nuevo pedido
+                        // para poder vincular las l\u00edneas de pedido posteriormente
+                        $_SESSION['idpedido'] = $fila1['id'];
+                }
 
 		//echo $_SESSION['idpedido'];
 
